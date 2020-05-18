@@ -14,6 +14,7 @@ background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, F
 
 h1 {
     display: flex;
+    text-align: center;
     justify-content: center;
     font-size: 2.5em;
     color: white;
