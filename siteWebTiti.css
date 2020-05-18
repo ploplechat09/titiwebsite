@@ -6,8 +6,7 @@ background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, F
 }
 
 .text {
-  display: flex
-  font-size: 1em;
+  font-size: 2em;
   padding-bottom: 30px;
   margin-bottom: 10px;
 }
@@ -22,6 +21,15 @@ h1 {
     background-color: transparent;
     font-family: 'Source Code Pro', monospace;
   }
+
+h2 {
+  text-align: center;
+  font-size: 1em;
+  color: white;
+  margin-top: 20px;
+  background-color: transparent;
+  font-family: 'Source Code Pro', monospace;
+}
 
 
 h3 {
@@ -91,6 +99,8 @@ span {
   padding-right: 30px;
   padding-left: 30px;
   font-size: .3em;
+  color: white;
+  font-family: 'Source Code Pro', monospace;
 }
 
 li {
