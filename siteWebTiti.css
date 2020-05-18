@@ -73,8 +73,12 @@ ul {
 }
 
 .prez {
-  margin: 0 auto;
-}
+    display: flex;
+    font-size: 0.5em;
+    text-align: justify;
+    padding-bottom: 30px;
+    margin: 50px;
+  }
 
 li {
   display: flex;
